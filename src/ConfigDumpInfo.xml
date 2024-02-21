@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Configuration.ОтчетКоммисионеруДоработка" id="8aa06846-4c79-4d19-aca9-988b29fabe84" configVersion="f94a6a8539a9b03ecef1224d31e1d653bd88afa9"/>
+		<Metadata name="DataProcessor.ВыполнитьПроцедуру" id="759e5dd7-5c10-467d-9937-48f94299dbd2" configVersion="ce081264b0eaa639607c07f7091eb42c21388c7d"/>
+		<Metadata name="DataProcessor.ВыполнитьПроцедуру.Form.Форма" id="6dbf2336-ca2a-4fb7-a4a9-3f1706acbc7d" configVersion="278a21333e3ad9893d8746adff5ef0ed00d8ee0a"/>
+		<Metadata name="DataProcessor.ВыполнитьПроцедуру.Form.Форма.Form" id="6dbf2336-ca2a-4fb7-a4a9-3f1706acbc7d.0" configVersion="1d85716ac2e2d97abba65f305dc014bdf352a9fb"/>
+		<Metadata name="DataProcessor.ВыполнитьПроцедуру.ManagerModule" id="759e5dd7-5c10-467d-9937-48f94299dbd2.2" configVersion="e2645c3bcb2c2b1cc0cff182758d91a171bdacce"/>
+		<Metadata name="DataProcessor.ВыполнитьПроцедуру.ObjectModule" id="759e5dd7-5c10-467d-9937-48f94299dbd2.0" configVersion="7e7eb23763e6440b76cac9b31896b211cb8a8eff"/>
+		<Metadata name="Language.Русский" id="bc41844d-9dac-4f6b-8e43-c20def1b05c6" configVersion="2ebb1294d446792e5d90d3dfa75b1b335e7a919b"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="e9fa8f9e-d8f0-4466-aa4e-80b6ee8b9787" configVersion="441d50491cd7ed7d6612dc01a2af81477977a365"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
